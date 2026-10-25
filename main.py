@@ -4,3 +4,4 @@ name = "M Vishwas Nayak"
 print("Student Name:", name)
 
 print("Practising Git and GitHub commands")~
+print("Updated from GitHub")
